@@ -1,3 +1,3 @@
 export default function getHealth(ctx) {
-    ctx.body = { message: 'ok' }
+    ctx.body = { message: 'ola' }
 }
